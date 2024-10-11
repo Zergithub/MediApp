@@ -1,0 +1,54 @@
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.frmAddReminder.resources
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.frmMain.resources
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.frmRegistration.resources
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.Resources.resources
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.vbproj.GenerateResource.cache
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.vbproj.CoreCompileInputs.cache
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\bin\Debug\MediApp.exe.config
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\bin\Debug\MediApp.exe
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\bin\Debug\MediApp.pdb
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\bin\Debug\MediApp.xml
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\bin\Debug\AForge.Video.DirectShow.dll
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\bin\Debug\AForge.Video.dll
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\bin\Debug\AForge.Video.xml
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\bin\Debug\AForge.Video.DirectShow.xml
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.vbproj.CopyComplete
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.exe
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.xml
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.pdb
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.vbprojAssemblyReference.cache
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.frmAddAppointment.resources
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.frmReceiveEmail.resources
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.frmOrderPrescription.resources
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.frmGoogleMaps.resources
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.frmLogin.resources
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.frmForget.resources
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.SplashScreen1.resources
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.frmAbout.resources
+F:\Fiver\Desktop\MediApp\MediApp\MediApp\obj\Debug\MediApp.frmRegistrationCode.resources
+D:\MediApp Program\MediApp\MediApp\bin\Debug\MediApp.exe.config
+D:\MediApp Program\MediApp\MediApp\bin\Debug\MediApp.exe
+D:\MediApp Program\MediApp\MediApp\bin\Debug\MediApp.pdb
+D:\MediApp Program\MediApp\MediApp\bin\Debug\MediApp.xml
+D:\MediApp Program\MediApp\MediApp\bin\Debug\AForge.Video.xml
+D:\MediApp Program\MediApp\MediApp\bin\Debug\AForge.Video.DirectShow.xml
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.vbprojAssemblyReference.cache
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.frmAbout.resources
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.frmAddAppointment.resources
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.frmAddReminder.resources
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.frmForget.resources
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.frmGoogleMaps.resources
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.frmLogin.resources
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.frmMain.resources
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.frmOrderPrescription.resources
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.frmReceiveEmail.resources
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.frmRegistration.resources
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.frmRegistrationCode.resources
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.Resources.resources
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.SplashScreen1.resources
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.vbproj.GenerateResource.cache
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.vbproj.CoreCompileInputs.cache
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.vbproj.CopyComplete
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.exe
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.xml
+D:\MediApp Program\MediApp\MediApp\obj\Debug\MediApp.pdb
